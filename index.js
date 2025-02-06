@@ -1,4 +1,4 @@
-const { Restaurant } = require('../BE2.1_HW1/models/restaurant.models');
+
 const {initializeDatabase} = require('./db/db.connect');
 const {Hotel} = require('./models/hotel.models');
 const cors = require("cors");
